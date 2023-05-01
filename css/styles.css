@@ -1,0 +1,19 @@
+*{
+    background-color: yellow;
+}
+.center-content{
+    text-align: center;
+    width: 720px;
+    margin: 0 auto;
+    font-size: x-large;
+    font-weight: 200;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+ul {
+    list-style: none; /* remove the bullet points */
+  }
+img{
+    border-radius: 5%;
+}
